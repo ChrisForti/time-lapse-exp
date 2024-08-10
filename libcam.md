@@ -9,3 +9,5 @@
 ### Modify config file
 
 `sudo nano /boot/firmware/config.txt`
+
+[arducam quicstart](https://docs.arducam.com/Raspberry-Pi-Camera/Pivariety-Camera/Quick-Start-Guide/)
